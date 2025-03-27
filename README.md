@@ -41,8 +41,7 @@ class Stack(metaclass=Meta):
 
 
 class Social(metaclass=Meta): 
-    twitter     : str = "yacharenikrish"
-    linkedin    : str = "yacharenikrishnakanth"
+    linkedin    : str = "Varun-gunda" https://linkedin.com/in/varun-gunda
 ````
 <!--
 **Varungunda60/Varungunda60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
