@@ -36,12 +36,12 @@ class Bio(metaclass=Meta):
 class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Java", "Python", "Javascript", "Shell")
     databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Oracle", "NoSQL")
-    misc        : Tuple[str, ...] = ("Docker", "Kubernet")
+    misc        : Tuple[str, ...] = ("Docker", "Kubernets")
     ongoing     : Tuple[str, ...] = ("Spring", "React")
 
 
 class Social(metaclass=Meta): 
-    linkedin    : str = "Varun-gunda" https://linkedin.com/in/varun-gunda
+    linkedin    : str = "Varun-gunda" 
 ````
 <!--
 **Varungunda60/Varungunda60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
